@@ -1,0 +1,15 @@
+node_modules
+.next
+.git
+.github
+.demo
+.env
+.env.*
+!.env.example
+coverage
+playwright-report
+test-results
+*.log
+*.tsbuildinfo
+.DS_Store
+Thumbs.db
